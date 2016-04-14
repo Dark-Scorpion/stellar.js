@@ -1,8 +1,6 @@
 
 # Stellar.js
 
-> **PLEASE NOTE:** This project is no longer maintained. If parallax scrolling is something you care about, please [apply to become a contributor to this project](https://github.com/markdalgleish/stellar.js/issues/116#issuecomment-76816489).
-
 ### Parallax scrolling made easy
 
 Full guide and demonstrations available at the [official Stellar.js project page](http://markdalgleish.com/projects/stellar.js/).
