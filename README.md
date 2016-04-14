@@ -1,5 +1,3 @@
-[![Build Status](https://img.shields.io/travis/markdalgleish/stellar.js/master.svg?style=flat)](http://travis-ci.org/markdalgleish/stellar.js) [![Gitter](https://img.shields.io/badge/gitter-join%20chat-45cba1.svg?style=flat)](https://gitter.im/markdalgleish/stellar.js)
-
 
 # Stellar.js
 
